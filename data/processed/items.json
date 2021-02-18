@@ -1,0 +1,151 @@
+{
+    "items": [
+        {
+            "itemId": "v2",
+            "features": {
+                "0": "Social_recognition",
+                "1": ""
+            }
+        },
+        {
+            "itemId": "v3",
+            "features": {
+                "0": "Praise",
+                "1": ""
+            }
+        },
+        {
+            "itemId": "v4",
+            "features": {
+                "0": "Cooperation_linking",
+                "1": ""
+            }
+        },
+        {
+            "itemId": "v5",
+            "features": {
+                "0": "Physical_attractiveness",
+                "1": ""
+            }
+        },
+        {
+            "itemId": "v6",
+            "features": {
+                "0": "Conditioning",
+                "1": ""
+            }
+        },
+        {
+            "itemId": "v7",
+            "features": {
+                "0": "Reciprocity",
+                "1": "Social_recognition"
+            }
+        },
+        {
+            "itemId": "v8",
+            "features": {
+                "0": "Verifiability_realworld",
+                "1": ""
+            }
+        },
+        {
+            "itemId": "v9",
+            "features": {
+                "0": "Tailoring_personalization",
+                "1": ""
+            }
+        },
+        {
+            "itemId": "v10",
+            "features": {
+                "0": "Authority",
+                "1": "Social_proof"
+            }
+        },
+        {
+            "itemId": "v11",
+            "features": {
+                "0": "Self_monitoring",
+                "1": ""
+            }
+        },
+        {
+            "itemId": "v12",
+            "features": {
+                "0": "Reduction",
+                "1": ""
+            }
+        },
+        {
+            "itemId": "v13",
+            "features": {
+                "0": "Verifiability_realworld",
+                "1": ""
+            }
+        },
+        {
+            "itemId": "v14",
+            "features": {
+                "0": "Tailoring_personalization",
+                "1": ""
+            }
+        },
+        {
+            "itemId": "v15",
+            "features": {
+                "0": "Cause_effect",
+                "1": ""
+            }
+        },
+        {
+            "itemId": "v16",
+            "features": {
+                "0": "Self_monitoring",
+                "1": ""
+            }
+        },
+        {
+            "itemId": "v17",
+            "features": {
+                "0": "",
+                "1": ""
+            }
+        },
+        {
+            "itemId": "v18",
+            "features": {
+                "0": "Self_monitoring",
+                "1": ""
+            }
+        },
+        {
+            "itemId": "v19",
+            "features": {
+                "0": "Suggestion",
+                "1": ""
+            }
+        },
+        {
+            "itemId": "v20",
+            "features": {
+                "0": "Similarity",
+                "1": ""
+            }
+        },
+        {
+            "itemId": "v21",
+            "features": {
+                "0": "Authority",
+                "1": ""
+            }
+        },
+        {
+            "itemId": "v22",
+            "features": {
+                "0": "Verifiability_realworld",
+                "1": ""
+            }
+        }
+    ]
+}

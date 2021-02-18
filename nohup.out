@@ -1,0 +1,1942 @@
+Seed 12
+Iteration 1 of 5
+Sub-Iteration 1 of 5
+LR: 1.466493
+Time 0.000531
+SVM: 1.201454
+Time 0.002232
+LR: 1.036357
+Time 0.000531
+SVM: 1.034435
+Time 0.002421
+LR: 1.024141
+Time 0.000522
+SVM: 1.024061
+Time 0.002241
+Sub-Iteration 2 of 5
+LR: 2.257000
+Time 0.000506
+SVM: 0.854290
+Time 0.002136
+LR: 0.807729
+Time 0.000519
+SVM: 0.851477
+Time 0.002429
+LR: 0.886372
+Time 0.000500
+SVM: 0.853718
+Time 0.002273
+Sub-Iteration 3 of 5
+LR: 1.347660
+Time 0.000510
+SVM: 1.148808
+Time 0.002223
+LR: 1.171406
+Time 0.000521
+SVM: 1.092907
+Time 0.002381
+LR: 1.226411
+Time 0.000520
+SVM: 1.044452
+Time 0.002284
+Sub-Iteration 4 of 5
+LR: 0.926265
+Time 0.000506
+SVM: 0.818918
+Time 0.002093
+LR: 1.278133
+Time 0.000525
+SVM: 1.034537
+Time 0.002128
+LR: 0.889846
+Time 0.000520
+SVM: 0.827323
+Time 0.002187
+Sub-Iteration 5 of 5
+LR: 2.529889
+Time 0.000506
+SVM: 0.872076
+Time 0.002245
+LR: 0.985742
+Time 0.000530
+SVM: 0.852803
+Time 0.002404
+LR: 0.871459
+Time 0.000524
+SVM: 0.847412
+Time 0.002261
+Iteration 2 of 5
+Sub-Iteration 1 of 5
+LR: 1.432164
+Time 0.000516
+SVM: 1.289287
+Time 0.002374
+LR: 1.062527
+Time 0.000512
+SVM: 1.064189
+Time 0.002388
+LR: 1.055096
+Time 0.000522
+SVM: 1.151213
+Time 0.002202
+Sub-Iteration 2 of 5
+LR: 1.788696
+Time 0.000505
+SVM: 0.843967
+Time 0.002043
+LR: 0.847651
+Time 0.000509
+SVM: 0.862088
+Time 0.002292
+LR: 0.885511
+Time 0.000519
+SVM: 0.862875
+Time 0.002241
+Sub-Iteration 3 of 5
+LR: 1.247946
+Time 0.000511
+SVM: 1.132961
+Time 0.002112
+LR: 1.249519
+Time 0.000521
+SVM: 1.104216
+Time 0.002285
+LR: 1.207618
+Time 0.000522
+SVM: 1.074836
+Time 0.002272
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+Sub-Iteration 4 of 5
+LR: 0.876506
+Time 0.000505
+SVM: 0.813274
+Time 0.002101
+LR: 1.107505
+Time 0.000522
+SVM: 0.958664
+Time 0.002280
+LR: 1.088802
+Time 0.000525
+SVM: 0.858380
+Time 0.002374
+Sub-Iteration 5 of 5
+LR: 2.256323
+Time 0.000511
+SVM: 1.004725
+Time 0.002183
+LR: 1.040967
+Time 0.000502
+SVM: 0.972784
+Time 0.002337
+LR: 0.958464
+Time 0.000517
+SVM: 0.946812
+Time 0.002373
+Iteration 3 of 5
+Sub-Iteration 1 of 5
+LR: 1.717664
+Time 0.000501
+SVM: 1.300133
+Time 0.002218
+LR: 1.050527
+Time 0.000525
+SVM: 1.022519
+Time 0.002414
+LR: 1.103983
+Time 0.000517
+SVM: 1.068395
+Time 0.002196
+Sub-Iteration 2 of 5
+LR: 2.235225
+Time 0.000509
+SVM: 0.871889
+Time 0.002081
+LR: 0.847191
+Time 0.000523
+SVM: 0.972989
+Time 0.002275
+LR: 0.864530
+Time 0.000508
+SVM: 0.833770
+Time 0.002250
+Sub-Iteration 3 of 5
+LR: 1.311486
+Time 0.000516
+SVM: 1.084122
+Time 0.002061
+LR: 1.219434
+Time 0.000524
+SVM: 1.106917
+Time 0.002273
+LR: 1.166052
+Time 0.000521
+SVM: 1.066202
+Time 0.002383
+Sub-Iteration 4 of 5
+LR: 0.937400
+Time 0.000506
+SVM: 0.826055
+Time 0.002045
+LR: 1.312586
+Time 0.000536
+SVM: 1.075797
+Time 0.002224
+LR: 1.055964
+Time 0.000527
+SVM: 0.855298
+Time 0.002099
+Sub-Iteration 5 of 5
+LR: 1.951207
+Time 0.000506
+SVM: 0.877692
+Time 0.002355
+LR: 0.937759
+Time 0.000524
+SVM: 0.821617
+Time 0.002396
+LR: 0.820924
+Time 0.000546
+SVM: 0.822475
+Time 0.002168
+Iteration 4 of 5
+Sub-Iteration 1 of 5
+LR: 1.713562
+Time 0.000522
+SVM: 1.282193
+Time 0.002347
+LR: 1.060566
+Time 0.000527
+SVM: 1.048346
+Time 0.002352
+LR: 1.097220
+Time 0.000522
+SVM: 1.108927
+Time 0.002238
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+Sub-Iteration 2 of 5
+LR: 1.898012
+Time 0.000507
+SVM: 0.922888
+Time 0.002103
+LR: 0.899831
+Time 0.000530
+SVM: 0.874271
+Time 0.002342
+LR: 0.884901
+Time 0.000514
+SVM: 0.895195
+Time 0.002218
+Sub-Iteration 3 of 5
+LR: 1.221004
+Time 0.000510
+SVM: 1.077927
+Time 0.002143
+LR: 1.203054
+Time 0.000525
+SVM: 1.095437
+Time 0.002224
+LR: 1.072727
+Time 0.000527
+SVM: 1.085664
+Time 0.002233
+Sub-Iteration 4 of 5
+LR: 0.908014
+Time 0.000506
+SVM: 0.813876
+Time 0.001976
+LR: 1.142136
+Time 0.000524
+SVM: 0.971617
+Time 0.002277
+LR: 0.894847
+Time 0.000523
+SVM: 0.814763
+Time 0.002149
+Sub-Iteration 5 of 5
+LR: 2.330796
+Time 0.000510
+SVM: 0.903085
+Time 0.002241
+LR: 1.018551
+Time 0.000523
+SVM: 0.895063
+Time 0.002356
+LR: 0.892555
+Time 0.000502
+SVM: 0.900663
+Time 0.002166
+Iteration 5 of 5
+Sub-Iteration 1 of 5
+LR: 1.457316
+Time 0.000509
+SVM: 1.174040
+Time 0.002035
+LR: 1.048235
+Time 0.000532
+SVM: 1.000831
+Time 0.002439
+LR: 1.036644
+Time 0.000514
+SVM: 1.009039
+Time 0.002213
+Sub-Iteration 2 of 5
+LR: 2.334532
+Time 0.000504
+SVM: 0.855275
+Time 0.002131
+LR: 0.882565
+Time 0.000517
+SVM: 0.874519
+Time 0.002265
+LR: 0.815424
+Time 0.000524
+SVM: 0.857909
+Time 0.002310
+Sub-Iteration 3 of 5
+LR: 1.278183
+Time 0.000511
+SVM: 1.080055
+Time 0.002251
+LR: 1.246699
+Time 0.000524
+SVM: 1.085228
+Time 0.002317
+LR: 1.072185
+Time 0.000522
+SVM: 1.052253
+Time 0.002327
+Sub-Iteration 4 of 5
+LR: 0.901187
+Time 0.000501
+SVM: 0.794799
+Time 0.002054
+LR: 1.177193
+Time 0.000537
+SVM: 1.002639
+Time 0.002269
+LR: 0.875361
+Time 0.000523
+SVM: 0.809786
+Time 0.002304
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+Sub-Iteration 5 of 5
+LR: 1.902664
+Time 0.000501
+SVM: 0.950623
+Time 0.002161
+LR: 1.075725
+Time 0.000525
+SVM: 0.899527
+Time 0.002410
+LR: 0.994762
+Time 0.000497
+SVM: 0.917183
+Time 0.002372
+Prec: 0.774000 STD: 0.060824
+Rec: 0.327595 STD: 0.031229
+F1: 0.457968 STD: 0.025303
+NDPM: 0.067999 STD: 0.015140
+Seed 60
+Iteration 1 of 5
+Sub-Iteration 1 of 5
+LR: 1.562428
+Time 0.000508
+SVM: 1.255561
+Time 0.002244
+LR: 1.048393
+Time 0.000531
+SVM: 1.051559
+Time 0.002471
+LR: 1.096680
+Time 0.000526
+SVM: 1.102103
+Time 0.002017
+Sub-Iteration 2 of 5
+LR: 1.811067
+Time 0.000511
+SVM: 0.840998
+Time 0.002142
+LR: 0.838409
+Time 0.000526
+SVM: 0.909272
+Time 0.002343
+LR: 0.872486
+Time 0.000524
+SVM: 0.871088
+Time 0.002391
+Sub-Iteration 3 of 5
+LR: 1.365549
+Time 0.000507
+SVM: 1.126095
+Time 0.002223
+LR: 1.179913
+Time 0.000528
+SVM: 1.074919
+Time 0.002379
+LR: 1.148632
+Time 0.000514
+SVM: 1.098171
+Time 0.002273
+Sub-Iteration 4 of 5
+LR: 0.955189
+Time 0.000510
+SVM: 0.813891
+Time 0.002069
+LR: 1.209690
+Time 0.000540
+SVM: 0.995499
+Time 0.002315
+LR: 0.946927
+Time 0.000528
+SVM: 0.856106
+Time 0.002152
+Sub-Iteration 5 of 5
+LR: 1.843673
+Time 0.000515
+SVM: 0.993344
+Time 0.002162
+LR: 1.065496
+Time 0.000531
+SVM: 1.010998
+Time 0.002335
+LR: 1.076740
+Time 0.000509
+SVM: 1.003104
+Time 0.002266
+Iteration 2 of 5
+Sub-Iteration 1 of 5
+LR: 1.802459
+Time 0.000508
+SVM: 1.292158
+Time 0.002317
+LR: 1.079808
+Time 0.000532
+SVM: 1.005781
+Time 0.002372
+LR: 1.010356
+Time 0.000526
+SVM: 1.030114
+Time 0.002241
+Sub-Iteration 2 of 5
+LR: 1.576948
+Time 0.000512
+SVM: 0.832986
+Time 0.002222
+LR: 0.870685
+Time 0.000519
+SVM: 0.825431
+Time 0.002208
+LR: 0.865950
+Time 0.000543
+SVM: 0.854165
+Time 0.002251
+Sub-Iteration 3 of 5
+LR: 1.268310
+Time 0.000510
+SVM: 1.058298
+Time 0.002131
+LR: 1.145854
+Time 0.000519
+SVM: 1.115513
+Time 0.002322
+LR: 1.202025
+Time 0.000523
+SVM: 1.092006
+Time 0.002301
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+Sub-Iteration 4 of 5
+LR: 0.935311
+Time 0.000509
+SVM: 0.815184
+Time 0.002121
+LR: 1.314937
+Time 0.000533
+SVM: 1.050719
+Time 0.002275
+LR: 0.901707
+Time 0.000512
+SVM: 0.824567
+Time 0.002073
+Sub-Iteration 5 of 5
+LR: 2.089837
+Time 0.000520
+SVM: 0.991107
+Time 0.002153
+LR: 1.108462
+Time 0.000505
+SVM: 1.012617
+Time 0.002417
+LR: 1.079029
+Time 0.000528
+SVM: 1.064692
+Time 0.002228
+Iteration 3 of 5
+Sub-Iteration 1 of 5
+LR: 1.248289
+Time 0.000510
+SVM: 1.112943
+Time 0.002118
+LR: 1.035779
+Time 0.000519
+SVM: 0.928265
+Time 0.002322
+LR: 0.974145
+Time 0.000531
+SVM: 1.029040
+Time 0.002335
+Sub-Iteration 2 of 5
+LR: 1.798064
+Time 0.000514
+SVM: 0.874009
+Time 0.002130
+LR: 0.876961
+Time 0.000536
+SVM: 0.876449
+Time 0.004565
+LR: 0.887542
+Time 0.000508
+SVM: 0.885486
+Time 0.002159
+Sub-Iteration 3 of 5
+LR: 1.237490
+Time 0.000507
+SVM: 1.075671
+Time 0.002367
+LR: 1.148066
+Time 0.000515
+SVM: 1.088010
+Time 0.002319
+LR: 1.170520
+Time 0.000526
+SVM: 1.155437
+Time 0.002178
+Sub-Iteration 4 of 5
+LR: 0.895976
+Time 0.000503
+SVM: 0.804420
+Time 0.002012
+LR: 1.207315
+Time 0.000537
+SVM: 0.960069
+Time 0.002270
+LR: 1.070480
+Time 0.000533
+SVM: 0.804178
+Time 0.002260
+Sub-Iteration 5 of 5
+LR: 2.025851
+Time 0.000510
+SVM: 0.959363
+Time 0.002260
+LR: 1.010057
+Time 0.000531
+SVM: 0.963452
+Time 0.002448
+LR: 0.971075
+Time 0.000509
+SVM: 0.935903
+Time 0.002230
+Iteration 4 of 5
+Sub-Iteration 1 of 5
+LR: 1.568773
+Time 0.000514
+SVM: 1.280757
+Time 0.002229
+LR: 1.060484
+Time 0.000511
+SVM: 1.027835
+Time 0.002318
+LR: 1.074552
+Time 0.000535
+SVM: 1.088718
+Time 0.002286
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+Sub-Iteration 2 of 5
+LR: 2.066555
+Time 0.000507
+SVM: 0.823777
+Time 0.002016
+LR: 0.835865
+Time 0.000513
+SVM: 0.838304
+Time 0.002270
+LR: 0.905649
+Time 0.000525
+SVM: 0.877256
+Time 0.002448
+Sub-Iteration 3 of 5
+LR: 1.237611
+Time 0.000513
+SVM: 1.099279
+Time 0.002121
+LR: 1.194344
+Time 0.000527
+SVM: 1.090885
+Time 0.002383
+LR: 1.205369
+Time 0.000533
+SVM: 1.081980
+Time 0.002299
+Sub-Iteration 4 of 5
+LR: 0.925373
+Time 0.000512
+SVM: 0.838953
+Time 0.002181
+LR: 1.348539
+Time 0.000546
+SVM: 1.018701
+Time 0.002272
+LR: 0.905648
+Time 0.000529
+SVM: 0.869324
+Time 0.002318
+Sub-Iteration 5 of 5
+LR: 2.056093
+Time 0.000507
+SVM: 0.911568
+Time 0.002223
+LR: 0.949035
+Time 0.000530
+SVM: 0.920362
+Time 0.002191
+LR: 1.048189
+Time 0.000538
+SVM: 0.892733
+Time 0.002334
+Iteration 5 of 5
+Sub-Iteration 1 of 5
+LR: 1.273124
+Time 0.000507
+SVM: 1.099362
+Time 0.002129
+LR: 1.055081
+Time 0.000528
+SVM: 0.944647
+Time 0.002451
+LR: 0.980529
+Time 0.000530
+SVM: 0.954796
+Time 0.002308
+Sub-Iteration 2 of 5
+LR: 2.068326
+Time 0.000508
+SVM: 0.879290
+Time 0.002038
+LR: 0.828828
+Time 0.000529
+SVM: 0.959203
+Time 0.002361
+LR: 0.872003
+Time 0.000535
+SVM: 0.888543
+Time 0.002452
+Sub-Iteration 3 of 5
+LR: 1.299528
+Time 0.000510
+SVM: 1.076260
+Time 0.002155
+LR: 1.198411
+Time 0.000529
+SVM: 1.074630
+Time 0.002346
+LR: 1.073645
+Time 0.000523
+SVM: 1.062910
+Time 0.002438
+Sub-Iteration 4 of 5
+LR: 0.945148
+Time 0.000511
+SVM: 0.823218
+Time 0.002083
+LR: 1.109535
+Time 0.000511
+SVM: 0.926085
+Time 0.002239
+LR: 0.872140
+Time 0.000506
+SVM: 0.839658
+Time 0.002290
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+Sub-Iteration 5 of 5
+LR: 2.159132
+Time 0.000503
+SVM: 0.907910
+Time 0.002268
+LR: 1.018108
+Time 0.000537
+SVM: 0.890576
+Time 0.002404
+LR: 1.014611
+Time 0.000520
+SVM: 0.856865
+Time 0.002281
+Prec: 0.777333 STD: 0.057015
+Rec: 0.330063 STD: 0.031193
+F1: 0.460941 STD: 0.024009
+NDPM: 0.068146 STD: 0.015276
+Seed 120
+Iteration 1 of 5
+Sub-Iteration 1 of 5
+LR: 1.610092
+Time 0.000515
+SVM: 1.249923
+Time 0.002333
+LR: 1.065260
+Time 0.000527
+SVM: 1.056821
+Time 0.002389
+LR: 1.154010
+Time 0.000538
+SVM: 1.196938
+Time 0.002359
+Sub-Iteration 2 of 5
+LR: 2.037925
+Time 0.000523
+SVM: 0.858295
+Time 0.002107
+LR: 0.924361
+Time 0.000544
+SVM: 0.817338
+Time 0.002191
+LR: 1.033386
+Time 0.000526
+SVM: 0.886808
+Time 0.002225
+Sub-Iteration 3 of 5
+LR: 1.243513
+Time 0.000515
+SVM: 1.089134
+Time 0.002231
+LR: 1.176884
+Time 0.000531
+SVM: 1.087163
+Time 0.002369
+LR: 1.125402
+Time 0.000541
+SVM: 1.193617
+Time 0.002208
+Sub-Iteration 4 of 5
+LR: 0.914251
+Time 0.000515
+SVM: 0.818199
+Time 0.002108
+LR: 1.298920
+Time 0.000530
+SVM: 0.973240
+Time 0.002243
+LR: 0.861030
+Time 0.000528
+SVM: 0.835074
+Time 0.002245
+Sub-Iteration 5 of 5
+LR: 2.098623
+Time 0.000520
+SVM: 0.954655
+Time 0.002150
+LR: 1.045554
+Time 0.000541
+SVM: 0.912448
+Time 0.002393
+LR: 0.951230
+Time 0.000534
+SVM: 0.914479
+Time 0.002374
+Iteration 2 of 5
+Sub-Iteration 1 of 5
+LR: 1.524957
+Time 0.000520
+SVM: 1.187755
+Time 0.002079
+LR: 1.089304
+Time 0.000534
+SVM: 1.011326
+Time 0.002393
+LR: 0.992735
+Time 0.000546
+SVM: 0.998956
+Time 0.002277
+Sub-Iteration 2 of 5
+LR: 2.251201
+Time 0.000521
+SVM: 0.867279
+Time 0.002118
+LR: 0.936824
+Time 0.000540
+SVM: 0.879516
+Time 0.002297
+LR: 0.814853
+Time 0.000547
+SVM: 0.873316
+Time 0.002462
+Sub-Iteration 3 of 5
+LR: 1.225504
+Time 0.000526
+SVM: 1.096008
+Time 0.002013
+LR: 1.201346
+Time 0.000539
+SVM: 1.064050
+Time 0.002429
+LR: 1.186279
+Time 0.000531
+SVM: 1.116116
+Time 0.002129
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+Sub-Iteration 4 of 5
+LR: 0.950761
+Time 0.000520
+SVM: 0.848266
+Time 0.002176
+LR: 1.188549
+Time 0.000525
+SVM: 0.957895
+Time 0.002227
+LR: 0.933718
+Time 0.000537
+SVM: 0.825803
+Time 0.002236
+Sub-Iteration 5 of 5
+LR: 2.396317
+Time 0.000515
+SVM: 0.887606
+Time 0.002175
+LR: 0.947971
+Time 0.000530
+SVM: 0.914164
+Time 0.002370
+LR: 0.945321
+Time 0.000542
+SVM: 0.880884
+Time 0.002285
+Iteration 3 of 5
+Sub-Iteration 1 of 5
+LR: 1.524896
+Time 0.000520
+SVM: 1.204379
+Time 0.002046
+LR: 1.045486
+Time 0.000527
+SVM: 0.999369
+Time 0.002315
+LR: 1.104172
+Time 0.000532
+SVM: 1.104209
+Time 0.002278
+Sub-Iteration 2 of 5
+LR: 2.097624
+Time 0.000522
+SVM: 0.922564
+Time 0.002203
+LR: 0.795642
+Time 0.000528
+SVM: 0.828905
+Time 0.002206
+LR: 0.860579
+Time 0.000543
+SVM: 0.849928
+Time 0.002528
+Sub-Iteration 3 of 5
+LR: 1.261383
+Time 0.000535
+SVM: 1.067952
+Time 0.002179
+LR: 1.146110
+Time 0.000524
+SVM: 1.069455
+Time 0.002438
+LR: 1.273304
+Time 0.000527
+SVM: 1.085771
+Time 0.002352
+Sub-Iteration 4 of 5
+LR: 0.956298
+Time 0.000517
+SVM: 0.838658
+Time 0.002051
+LR: 1.293032
+Time 0.000541
+SVM: 0.977636
+Time 0.002318
+LR: 0.923264
+Time 0.000512
+SVM: 0.779155
+Time 0.002125
+Sub-Iteration 5 of 5
+LR: 2.439365
+Time 0.000526
+SVM: 0.873380
+Time 0.002281
+LR: 0.985813
+Time 0.000528
+SVM: 0.860661
+Time 0.002206
+LR: 0.958309
+Time 0.000541
+SVM: 0.862219
+Time 0.002256
+Iteration 4 of 5
+Sub-Iteration 1 of 5
+LR: 1.632344
+Time 0.000528
+SVM: 1.190559
+Time 0.002053
+LR: 1.083663
+Time 0.000537
+SVM: 1.012546
+Time 0.002393
+LR: 0.997735
+Time 0.000530
+SVM: 1.010503
+Time 0.002219
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+Sub-Iteration 2 of 5
+LR: 1.697368
+Time 0.000522
+SVM: 0.823820
+Time 0.002078
+LR: 0.767663
+Time 0.000533
+SVM: 0.797407
+Time 0.002338
+LR: 0.875225
+Time 0.000528
+SVM: 0.815974
+Time 0.002331
+Sub-Iteration 3 of 5
+LR: 1.217524
+Time 0.000521
+SVM: 1.081280
+Time 0.002060
+LR: 1.147872
+Time 0.000525
+SVM: 1.149409
+Time 0.002362
+LR: 1.203845
+Time 0.000536
+SVM: 1.109504
+Time 0.002243
+Sub-Iteration 4 of 5
+LR: 0.913212
+Time 0.000524
+SVM: 0.796209
+Time 0.002077
+LR: 1.200956
+Time 0.000547
+SVM: 0.954018
+Time 0.002315
+LR: 0.880531
+Time 0.000530
+SVM: 0.796614
+Time 0.002303
+Sub-Iteration 5 of 5
+LR: 2.049483
+Time 0.000526
+SVM: 0.909346
+Time 0.002250
+LR: 0.963318
+Time 0.000539
+SVM: 0.908315
+Time 0.002366
+LR: 0.891658
+Time 0.000543
+SVM: 0.884975
+Time 0.002330
+Iteration 5 of 5
+Sub-Iteration 1 of 5
+LR: 1.471116
+Time 0.000529
+SVM: 1.201314
+Time 0.002038
+LR: 1.092869
+Time 0.000547
+SVM: 0.995413
+Time 0.002374
+LR: 1.054883
+Time 0.000537
+SVM: 1.045351
+Time 0.002195
+Sub-Iteration 2 of 5
+LR: 2.136654
+Time 0.000520
+SVM: 0.842472
+Time 0.002101
+LR: 0.807360
+Time 0.000529
+SVM: 0.813225
+Time 0.002176
+LR: 0.858999
+Time 0.000529
+SVM: 0.835603
+Time 0.002164
+Sub-Iteration 3 of 5
+LR: 1.204254
+Time 0.000521
+SVM: 1.062267
+Time 0.002169
+LR: 1.244259
+Time 0.000525
+SVM: 1.101439
+Time 0.002273
+LR: 1.128529
+Time 0.000525
+SVM: 1.103946
+Time 0.002158
+Sub-Iteration 4 of 5
+LR: 0.934861
+Time 0.000521
+SVM: 0.809419
+Time 0.002117
+LR: 1.192045
+Time 0.000536
+SVM: 0.995914
+Time 0.002196
+LR: 0.909706
+Time 0.000541
+SVM: 0.798189
+Time 0.002228
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+Sub-Iteration 5 of 5
+LR: 1.822953
+Time 0.000521
+SVM: 1.025649
+Time 0.002258
+LR: 1.051127
+Time 0.000542
+SVM: 1.024063
+Time 0.002383
+LR: 0.997072
+Time 0.000524
+SVM: 1.019543
+Time 0.002200
+Prec: 0.778000 STD: 0.056317
+Rec: 0.330411 STD: 0.031251
+F1: 0.461399 STD: 0.023935
+NDPM: 0.068129 STD: 0.015182
+Seed 240
+Iteration 1 of 5
+Sub-Iteration 1 of 5
+LR: 1.638484
+Time 0.000531
+SVM: 1.210937
+Time 0.002155
+LR: 1.124033
+Time 0.000556
+SVM: 1.049613
+Time 0.002349
+LR: 1.158277
+Time 0.000535
+SVM: 1.099510
+Time 0.002201
+Sub-Iteration 2 of 5
+LR: 1.658545
+Time 0.000526
+SVM: 0.864290
+Time 0.002185
+LR: 0.914632
+Time 0.000539
+SVM: 0.872804
+Time 0.002319
+LR: 0.889445
+Time 0.000532
+SVM: 0.866569
+Time 0.002318
+Sub-Iteration 3 of 5
+LR: 1.299025
+Time 0.000531
+SVM: 1.085018
+Time 0.002181
+LR: 1.156234
+Time 0.000543
+SVM: 1.070938
+Time 0.002302
+LR: 1.108416
+Time 0.000534
+SVM: 1.055193
+Time 0.002318
+Sub-Iteration 4 of 5
+LR: 0.950546
+Time 0.000532
+SVM: 0.821420
+Time 0.002081
+LR: 1.142510
+Time 0.000538
+SVM: 0.949423
+Time 0.002290
+LR: 0.887924
+Time 0.000548
+SVM: 0.813578
+Time 0.002142
+Sub-Iteration 5 of 5
+LR: 2.153432
+Time 0.000529
+SVM: 0.904737
+Time 0.002043
+LR: 0.889230
+Time 0.000533
+SVM: 0.874319
+Time 0.002414
+LR: 0.959276
+Time 0.000535
+SVM: 0.898102
+Time 0.002404
+Iteration 2 of 5
+Sub-Iteration 1 of 5
+LR: 1.629001
+Time 0.000525
+SVM: 1.255814
+Time 0.002127
+LR: 1.100009
+Time 0.000550
+SVM: 1.029092
+Time 0.002393
+LR: 1.089689
+Time 0.000537
+SVM: 1.068942
+Time 0.002191
+Sub-Iteration 2 of 5
+LR: 1.598640
+Time 0.000530
+SVM: 0.792260
+Time 0.002048
+LR: 0.829889
+Time 0.000543
+SVM: 0.765960
+Time 0.002235
+LR: 0.807094
+Time 0.000534
+SVM: 0.788813
+Time 0.002307
+Sub-Iteration 3 of 5
+LR: 1.154729
+Time 0.000535
+SVM: 1.117227
+Time 0.002250
+LR: 1.123477
+Time 0.000553
+SVM: 1.038589
+Time 0.002362
+LR: 1.205535
+Time 0.000528
+SVM: 1.157470
+Time 0.002162
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+Sub-Iteration 4 of 5
+LR: 0.945197
+Time 0.000538
+SVM: 0.820817
+Time 0.002102
+LR: 1.208759
+Time 0.000551
+SVM: 0.935753
+Time 0.002306
+LR: 0.975590
+Time 0.000555
+SVM: 0.953702
+Time 0.002285
+Sub-Iteration 5 of 5
+LR: 1.819037
+Time 0.000536
+SVM: 0.931094
+Time 0.002156
+LR: 1.027393
+Time 0.000547
+SVM: 0.875623
+Time 0.002357
+LR: 0.912771
+Time 0.000560
+SVM: 0.913117
+Time 0.002261
+Iteration 3 of 5
+Sub-Iteration 1 of 5
+LR: 1.382913
+Time 0.000531
+SVM: 1.276070
+Time 0.002002
+LR: 1.041631
+Time 0.000546
+SVM: 0.991827
+Time 0.002443
+LR: 1.003080
+Time 0.000544
+SVM: 1.069897
+Time 0.002264
+Sub-Iteration 2 of 5
+LR: 1.884802
+Time 0.000525
+SVM: 0.842846
+Time 0.002037
+LR: 0.889589
+Time 0.000536
+SVM: 0.820176
+Time 0.002213
+LR: 0.932338
+Time 0.000554
+SVM: 0.850479
+Time 0.002015
+Sub-Iteration 3 of 5
+LR: 1.216243
+Time 0.000526
+SVM: 1.067796
+Time 0.002277
+LR: 1.212782
+Time 0.000555
+SVM: 1.093355
+Time 0.002481
+LR: 1.106247
+Time 0.000526
+SVM: 1.090525
+Time 0.002255
+Sub-Iteration 4 of 5
+LR: 0.943804
+Time 0.000525
+SVM: 0.795075
+Time 0.002131
+LR: 1.279595
+Time 0.000552
+SVM: 0.931372
+Time 0.002322
+LR: 0.860199
+Time 0.000537
+SVM: 0.839023
+Time 0.002285
+Sub-Iteration 5 of 5
+LR: 2.171235
+Time 0.000522
+SVM: 0.987502
+Time 0.002140
+LR: 0.997834
+Time 0.000535
+SVM: 0.988271
+Time 0.002269
+LR: 0.974973
+Time 0.000535
+SVM: 0.958789
+Time 0.002459
+Iteration 4 of 5
+Sub-Iteration 1 of 5
+LR: 1.709179
+Time 0.000534
+SVM: 1.349278
+Time 0.002115
+LR: 1.131689
+Time 0.000533
+SVM: 1.065431
+Time 0.002251
+LR: 1.088462
+Time 0.000534
+SVM: 1.102542
+Time 0.004904
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+Sub-Iteration 2 of 5
+LR: 1.645296
+Time 0.000536
+SVM: 0.876355
+Time 0.002139
+LR: 1.023945
+Time 0.000537
+SVM: 0.827882
+Time 0.002223
+LR: 0.882738
+Time 0.000530
+SVM: 0.851524
+Time 0.002309
+Sub-Iteration 3 of 5
+LR: 1.307084
+Time 0.000536
+SVM: 1.073600
+Time 0.002195
+LR: 1.118734
+Time 0.000534
+SVM: 1.077261
+Time 0.002250
+LR: 1.129695
+Time 0.000530
+SVM: 1.083904
+Time 0.002230
+Sub-Iteration 4 of 5
+LR: 0.882314
+Time 0.000527
+SVM: 0.792868
+Time 0.002001
+LR: 1.095470
+Time 0.000540
+SVM: 0.925057
+Time 0.002306
+LR: 0.801486
+Time 0.000525
+SVM: 0.751069
+Time 0.002277
+Sub-Iteration 5 of 5
+LR: 1.734015
+Time 0.000532
+SVM: 0.957993
+Time 0.002301
+LR: 1.023420
+Time 0.000529
+SVM: 0.982897
+Time 0.002309
+LR: 0.977533
+Time 0.000555
+SVM: 0.964441
+Time 0.002340
+Iteration 5 of 5
+Sub-Iteration 1 of 5
+LR: 1.516495
+Time 0.000519
+SVM: 1.244085
+Time 0.002221
+LR: 1.098579
+Time 0.000548
+SVM: 1.009606
+Time 0.002294
+LR: 1.033263
+Time 0.000526
+SVM: 1.029338
+Time 0.002339
+Sub-Iteration 2 of 5
+LR: 1.926833
+Time 0.000534
+SVM: 0.921602
+Time 0.002126
+LR: 0.847441
+Time 0.000546
+SVM: 0.840824
+Time 0.002180
+LR: 0.890853
+Time 0.000533
+SVM: 0.884384
+Time 0.002184
+Sub-Iteration 3 of 5
+LR: 1.166640
+Time 0.000524
+SVM: 1.116480
+Time 0.002326
+LR: 1.292473
+Time 0.000546
+SVM: 1.069386
+Time 0.002327
+LR: 1.192816
+Time 0.000553
+SVM: 1.079883
+Time 0.002339
+Sub-Iteration 4 of 5
+LR: 0.968540
+Time 0.000523
+SVM: 0.820867
+Time 0.002039
+LR: 1.159561
+Time 0.000559
+SVM: 0.917191
+Time 0.002369
+LR: 0.949925
+Time 0.000545
+SVM: 0.841223
+Time 0.002278
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+/home/rubensancor/.virtualenvs/sentient/lib/python3.5/site-packages/sklearn/svm/base.py:196: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+Sub-Iteration 5 of 5
+LR: 2.106311
+Time 0.000528
+SVM: 0.863726
+Time 0.002271
+LR: 0.990991
+Time 0.000534
+SVM: 0.865655
+Time 0.002382
+LR: 0.882254
+Time 0.000523
+SVM: 0.854982
+Time 0.002253
+Prec: 0.774000 STD: 0.060824
+Rec: 0.327595 STD: 0.031229
+F1: 0.457968 STD: 0.025303
+NDPM: 0.068392 STD: 0.015463
+7652.77user 12836.86system 53:46.89elapsed 634%CPU (0avgtext+0avgdata 216700maxresident)k
+0inputs+5648outputs (0major+50480minor)pagefaults 0swaps

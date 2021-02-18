@@ -1,0 +1,14 @@
+Users
+0 = Age
+1 = Genre
+2 = Education 
+3 = Country
+4 = Work culture
+5 = PST
+6 = Barriers
+7 = Intentions
+8 = Confidence
+
+Items
+0 = Dimension
+1 = Dimension2(if it has)
