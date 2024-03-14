@@ -1,5 +1,5 @@
 # Sentient Things Recommendator
-==============================
+
 
 Persuasive Recommender System for Sentient Things project.
 
