@@ -1,54 +1,35 @@
-sentient_things
+# Sentient Things Recommendator
 ==============================
 
-Sistema de recomendación de estrategias persuasivas creado para el proyecto Sentient Things.
+Persuasive Recommender System for Sentient Things project.
 
-Project Organization
-------------
+## Folder description
 
-    ├── LICENSE
-    ├── README.md          <- The top-level README for developers using this project.
-    ├── data
-    │   ├── external       <- Unused.
-    │   ├── interim        <- Unused.
-    │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
-    │
-    ├── docs               <- Unused.
-    │
-    ├── models             <- Unused.
-    │
-    ├── notebooks          <- Unused.
-    │
-    ├── references         <- Unused.
-    │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
-    │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
-    │
-    ├── setup.py           <- Unused.
-    ├── src                <- Source code for use in this project.
-    │   ├── __init__.py    <- Makes src a Python module
-    │   │
-    │   ├── data           <- Scripts to download or generate data
-    │   │   └── make_dataset.py
-    │   │
-    │   ├── features       <- Scripts to turn raw data into features for modeling
-    │   │   └── build_features.py
-    │   │
-    │   ├── models         <- Scripts to train models and then use trained models to make
-    │   │   │                 predictions
-    │   │   ├── predict_model.py
-    │   │   └── train_model.py
-    │   │
-    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
-    │       └── visualize.py
-    │
-    └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
+- `data`: Contains the data used in the experiments.
+- `reports`: Contains the reports generated from the experiments and results from the models.
+- `second_iteration`: Contains the source code for the second iteration of the experiments.
+- `src`: Contains the source code for the experiments.
 
+## How to run the experiments
 
---------
+There are two different experiments in this repository. The first one is the baseline experiment created for the first iteration of the experiments and in the second iteration, we have merged several models to create a hybrid model and enhace the baseline. 
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+To run the experiments, follow the steps below:
+
+1. Install the requirements:
+
+```bash
+pip install -r requirements.txt
+```
+
+2. Run the experiments:
+
+```bash
+# Baseline
+cd src/models
+python pre_prolific_exp.py
+
+# Second iteration
+cd second_iteration
+python process_regression_3.py
+```
