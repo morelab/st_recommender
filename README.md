@@ -9,6 +9,7 @@ Persuasive Recommender System for Sentient Things project.
 - `reports`: Contains the reports generated from the experiments and results from the models.
 - `second_iteration`: Contains the source code for the second iteration of the experiments.
 - `src`: Contains the source code for the experiments.
+- `nudging_regression`: Contains the source code and README for the experiment regarding "Persuasion principle score prediction and fusion with optimal ranking"
 
 ## How to run the experiments
 
